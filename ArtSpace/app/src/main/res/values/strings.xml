@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="painting1Name">27 Birds</string>
+    <string name="painter1">Jennifer Lommers</string>
+    <string name="paint1Year">2012</string>
+    <string name="painting2Name">Afternoon Aspen Grove</string>
+    <string name="painter2">Gary Kim</string>
+    <string name="paint2Year">2015</string>
+    <string name="painting3Name">A Moment Of Tranquility</string>
+    <string name="painter3">Lucie Bilodeau</string>
+    <string name="paint3Year">2015</string>
+    <string name="painting4Name">Intermittent 2</string>
+    <string name="painter4">JuneErica Vess</string>
+    <string name="paint4Year">2019</string>
+    <string name="painting5Name">Louisiana Heron</string>
+    <string name="painter5">John James Audubon</string>
+    <string name="paint5Year">2011</string>
+    <string name="painting6Name">Summer On The Farm</string>
+    <string name="painter6">Robin Moline</string>
+    <string name="paint6Year">2011</string>
+</resources>
